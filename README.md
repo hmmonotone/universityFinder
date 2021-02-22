@@ -1,5 +1,5 @@
 # universityFinder
-For accessing the Web application, we need to follow these steps:
+For accessing the Web application, we need to follow these steps after forking the repository:
 1. Open command prompt and change the directory to the one where the project
 folder is in your system.
 2. When we are in the project folder, write "node app.js" in command line
