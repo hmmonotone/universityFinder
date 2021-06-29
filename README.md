@@ -1,11 +1,6 @@
 # universityFinder
-For accessing the Web application, we need to follow these steps after forking the repository:
-1. Open command prompt and change the directory to the one where the project
-folder is in your system.
-2. When we are in the project folder, write "node app.js" in command line
-(expecting you have Node.JS installed. If not then follow
-https://nodejs.org/en/download/ and install).
-3. After the previous step, you will see "Server is running on port 3000" on the
-console.
-4. Open any web browser on the system and write "localhost:3000".
-5. The University Locator App will load up.
+For accessing the Web application, click here: https://powerful-lake-47447.herokuapp.com/
+### About
+This Web app is an attempt to deploy my learnings about APIs. I will definatly try and add more features to this application.
+With the help of this Web App, anyone can find the name of colleges in a perticular country.
+
